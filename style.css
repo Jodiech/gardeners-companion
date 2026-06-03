@@ -3,3 +3,18 @@ Theme name: Garden Theme
 Author: Jodie Cheung
 Version: 1.0
 */
+/* Raleway for body text */
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Poppins for headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
