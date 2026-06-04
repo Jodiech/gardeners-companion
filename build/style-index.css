@@ -136,24 +136,24 @@ li {
 .page-section p:last-of-type {
   margin-bottom: 0;
 }
-.school-logo-text {
+.gardener-logo-text {
   position: relative;
   z-index: 20;
   margin: 0;
   font-size: 1.75rem;
   font-weight: 100;
 }
-.school-logo-text strong {
+.gardener-logo-text strong {
   font-weight: 400;
 }
-.school-logo-text a {
+.gardener-logo-text a {
   color: #fff;
   text-decoration: none;
 }
-.school-logo-text--alt-color a {
+.gardener-logo-text--alt-color a {
   color: #666;
 }
-.school-logo-text--alt-color a:hover {
+.gardener-logo-text--alt-color a:hover {
   color: #0d3b66;
   text-decoration: underline;
 }

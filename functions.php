@@ -9,3 +9,9 @@ function gardeners_files(){
 }
 
 add_action('wp_enqueue_scripts', 'gardeners_files');
+
+function gardeners_features(){
+    add_theme_support('title-tag');
+}
+
+add_action('after_setup_theme', 'gardeners_features');
